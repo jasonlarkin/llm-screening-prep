@@ -2,6 +2,8 @@
 
 Prep and research around **LLM-style technical screening** used at large tech companies (how questions are framed, what skills they stress, how to practice safely).
 
+**New agent / Cursor thread:** open [`AGENTS.md`](AGENTS.md) first — it is the handoff doc (goals, ethics, suggested layout, next tasks).
+
 **Seed (public discussion, not an endorsement of any particular leak):**  
 [Kanika (@KanikaBK) on X — Apr 2026](https://x.com/KanikaBK/status/2047994100226687372?s=20) — describes very short interviews, a large bank of LLM-style questions, and high compensation for candidates who pass.
 
